@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.carousel-item img{
+    width: 100%;
+    height: 91vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.imgb{
+    min-width: 100%;
+    max-height: 280px;
+    
+}
+.img-fluid{
+    height: 300px;
+    width: auto;
+}
+
+.service.row{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.nv ul li a{
+   margin: 0px 15px;
+}
